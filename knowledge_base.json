@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey There!"
+    },
+    {
+      "question": "...",
+      "answer": "Are you want to ask me something"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello!"
+    },
+    {
+      "question": "What can you do?",
+      "answer": "I can assist you with a wide range of tasks such as providing information, answering questions, setting reminders, helping with recommendations, and more. Just let me know what you need!"
+    },
+    {
+      "question": " How are you today?",
+      "answer": "I don't have feelings, but I'm here and ready to help you with whatever you need."
+    },
+    {
+      "question": " Who created you?",
+      "answer": " I was created by Umang Raval"
+    },
+    {
+      "question": "What languages do you speak?",
+      "answer": " I can understand and communicate in multiple languages including English, Spanish, French, German, and more. Feel free to ask in your preferred language!"
+    },
+    {
+      "question": "Can you help me with a math problem?",
+      "answer": "Absolutely! Please provide the math problem you need help with."
+    },
+    {
+      "question": "How do I change my settings?",
+      "answer": "To change your settings, you can usually find a settings or preferences option in the menu. Let me know what specific settings you'd like to change, and I'll guide you through the process."
+    },
+    {
+      "question": "Are you a human?",
+      "answer": "No, I'm an artificial intelligence created to assist and provide information to users like you."
+    },
+    {
+      "question": "pm of india",
+      "answer": "Shri Narendra Modi was sworn-in as India's Prime Minister on 30th May 2019"
+    },
+    {
+      "question": "what is your name",
+      "answer": "ChatBot"
+    },
+    {
+      "question": "what is 2+2",
+      "answer": "4"
+    },
+    {
+      "question": "pm of italy",
+      "answer": "Giorgia Meloni is the incumbent prime minister since 22 October 2022"
+    },
+    {
+      "question": "pm of canada",
+      "answer": "Justin Trudeau (born December 25, 1971) is Canada's 23rd Prime Minister"
+    }
+  ]
+}
